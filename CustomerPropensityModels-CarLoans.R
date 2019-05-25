@@ -1,7 +1,5 @@
-
-
 ####################################################################
-#    Customer Propensity Models - Line for credit for car purchase #
+#    Customer Propensity Models - Line for Credit for Car Purchase #
 ####################################################################
 
 # Author: Jane Nikolova
@@ -9,8 +7,22 @@
 # All Rights Reserved.
 # Date: December, 2018
 
-# Case Study Completed in Data Science for Business -
-# Graduate course in Data Sciense - Harvard Extension School - Harvard University.
+# Models & Data Mining Work completed as part of a Case Study in a Data Science Course (part of Harvard DS graduate program);
+# Course: Data Science for Business - Harvard Extension School - Harvard University.
+
+# Summary of methods & content:
+
+# @ Basic EDA - Basic data exploration.
+# @ Decision Trees - Using decision trees to evaluate the factors affecting propensity of a consumer to buy a car.
+# @ Regression - Using a regression to evaluate the factors affecting propensity of a consumer to buy a car.
+# @ Random Forest - Using random forest to evaluate the factors affecting propensity of a consumer to buy a car.
+# @ Neural Networks - Using NNs to evaluate the factors affecting propensity of a consumer to buy a car.
+# @ Evaluating the performance of all methods.
+# @ K-Means - Cluster Analysis - Defining clustering of consumers.
+
+####################################
+# Importing all relevant libraries :
+####################################
 
 library(caret)
 library(corrplot)
